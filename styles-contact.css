@@ -147,12 +147,11 @@ a{
 	font-weight: light;
 }
 
-a:hover{
+a:hover {text-decoration: underline;}
+
+/*a:hover{
 	color: black;
 	background: rgb(189, 215, 204);
 	border: 2px solid #37574b;
-	border-style: inset; /* ---- This is to create a button-like appearance ---- */
-	
-}
-    
+	border-style: inset; /* ---- This is to create a button-like appearance ---- */  
 
